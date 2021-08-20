@@ -9,7 +9,3 @@ repos:
     rev: 19.3b0
     hooks:
     -   id: black
-- repo: https://github.com/RoyalTS/sync-conda-env
-  rev: v0.1.0
-  hooks:
-  - id: sync-conda-env

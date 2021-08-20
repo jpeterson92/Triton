@@ -1,0 +1,5 @@
+name: triton
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\jpete\Projects\Triton\UsersjpeteProjectsTritonenvs\triton
